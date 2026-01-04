@@ -5,3 +5,4 @@ nbstripout
 numpy
 scikit-learn
 matplotlib
+scipy
